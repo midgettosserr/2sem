@@ -1,0 +1,20 @@
+6
+3.6 wwwwww
+2
+7.2 iiiii
+8
+9.1 12345677765
+4
+0.3 aaaaaaa
+5
+1 bbbbbbb
+4
+1 7368736372
+9
+0 a b c d
+1
+1 ooooooo
+3
+9.4 iiiiiii
+3
+0.1 gggg

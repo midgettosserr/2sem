@@ -1,0 +1,20 @@
+fff
+1 2 qwerty
+bbb
+2.2 5.6 aaaaa bbbbb
+ggg
+9.1 2.3 12345677765
+aaa
+0.3 0.4 aaaaaaa
+ddd
+1 5 bbbbbbb
+kkk
+1 1 7368736372
+ccc
+0 0 a b c d
+eee
+1 2 ooooooo
+hhh
+9.4 3 iiiiiii
+aaa
+0.1 0.2 gggg
